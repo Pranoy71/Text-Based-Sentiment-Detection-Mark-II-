@@ -8,7 +8,7 @@ The entire implementation is intentionally contained within a Jupyter Notebook t
 
 Class imbalance is deliberately accepted as a constraint of real-world emotional data rather than artificially corrected which allows the model to learn from naturally occurring distributions.
 
-This project was developed and tested using `Python 3.10.6` and `TensorFlow 2.14.0`. All required dependencies and their tested versions are listed in the provided `requirements.txt` file.
+This project was developed and tested using Python 3.10.6 and TensorFlow 2.14.0. All required dependencies and their tested versions are listed in the provided `requirements.txt` file.
 ---
 
 ## Emotion Classes and Label Encoding
