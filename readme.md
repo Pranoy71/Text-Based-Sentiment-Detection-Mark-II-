@@ -35,10 +35,10 @@ These mappings are stored externally to ensure interpretability and reproducibil
 ## Dataset Description
 
 The dataset used in this project is a **custom-constructed corpus** created manually by **our team** 
-— *Bishal Ch. Debnath (Pranoy71)*,
-— *Aishik Debnath*, 
-— *Sagar Jana*
-— *Anjana Kumari*
+- *Bishal Ch. Debnath (Pranoy71)*,
+- *Aishik Debnath*, 
+- *Sagar Jana*
+- *Anjana Kumari*
 The repository includes a compressed ZIP archive containing the **raw text files and intermediate CSV/Excel sources** that were curated and prepared by us during the early stages of dataset development. These raw files consist of emotion-specific text collections (such as addiction, anger, anxiety, depression, fear, stress, surprise, trauma, and others), along with preliminary train, validation, and test splits used during initial experimentation.
 
 All raw sources from the ZIP archive were **combined, cleaned, normalized, and restructured entirely within the notebook**, following a transparent and reproducible preprocessing pipeline. After applying text normalization, stopword removal, stemming/lemmatization, n-gram generation, and class consolidation, the final unified dataset was saved as `data.csv`.
