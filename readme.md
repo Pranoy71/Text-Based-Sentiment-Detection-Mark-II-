@@ -117,7 +117,16 @@ To ensure reproducibility and future reuse, key components of the pipeline are s
 - `Text based sentiment detection mark II.ipynb` – Complete research notebook
 
 ---
+## Project Lineage and Context
 
+This project is the successor and extended version of my earlier work,
+[Text-based-Sentiment-Analysis](https://github.com/Pranoy71/Text-based-sentiment-analysis)
+
+While the previous project focused on 6-class sentiment classification, this version significantly expands both the scope and technical depth of the work. The current project transitions from coarse sentiment polarity to fine-grained emotion recognition, introducing an 11-class emotion taxonomy, a larger and fully custom-built dataset, more advanced preprocessing (including n-grams and feature optimization), and a CNN-based deep learning architecture designed specifically for text emotion classification.
+
+This repository represents a methodological and experimental progression rather than a replacement, preserving continuity while exploring a more expressive and realistic formulation of text-based emotional understanding.
+
+---
 ## Project Scope and Intent
 
 This repository is maintained as a **research and academic project**, emphasizing reproducibility, and conceptual depth over deployment readiness. It is suitable for academic review, experimentation, and future extension into applied research domains such as mental health–aware NLP, emotional analytics, or psychological text mining.
