@@ -141,5 +141,5 @@ To run and test the trained model,
   - (`CountVectorizer_11_class.pkl`)
   - (`encoder_11_class.pkl`)
 
-- After that run the **Inference code: Loading & Real-time Testing** section of the jupyter notebook from top to bottom. 
+- After that run the `**Inference code: Loading & Real-time Testing**` section of the jupyter notebook from top to bottom. 
 
